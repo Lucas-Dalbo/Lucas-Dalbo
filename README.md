@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![LinkedIn Badge](https://img.shields.io/badge/-[Linkedin]-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[Link perfil no LinkedIn])]([https://www.linkedin.com/in/lucasdalbofernandes/])
-
 <a href="[https://www.linkedin.com/in/lucasdalbofernandes/]"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <!--
