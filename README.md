@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there! 👋
+My name is Lucas and Im a student of Web Development in Trybe!
+Currently Im on the Front-End module.
+
+### What I know how to use
 
 <a href="https://www.linkedin.com/in/lucasdalbofernandes/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
