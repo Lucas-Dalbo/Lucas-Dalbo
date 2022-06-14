@@ -1,9 +1,3 @@
-<img src="banner.jpg"
-  alt="banner"
-  height="50px"
-  width="100%"
-  style="object-fit: cover"/>
-
 <details>
   <summary>Read it in English!</summary>
 
