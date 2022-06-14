@@ -1,7 +1,6 @@
 <details>
   <summary>Read it in English!</summary>
-
-  ---
+  
   # Hello there! 👋
 
   ## About me
@@ -21,28 +20,27 @@
   - Redux and React-Redux.
 </details>
 
-<details>
-  <summary>Leia em Português!<summary>
+<details open>
+  <summary>Leia em Portugês(BR)</summary>
+  
+# Olá, pessoa amável da internet! 👋
 
-  ---
-  # Olá, pessoa amável da internet! 👋
+## Quem sou eu:
+Me chamo Lucas e sou estudante de Programação e Desenvolvimento Web na [Trybe](https://www.betrybe.com/)!
+Atualmente estou no segundo módulo do curso, o de Front-End, que está na sua reta final.
 
-  ## Quem sou eu:
-  Me chamo Lucas e sou estudante de Programação e Desenvolvimento Web na [Trybe](https://www.betrybe.com/)!
-  Atualmente estou no segundo módulo do curso, o de Front-End, que está na sua reta final.
+Além de estudante de programação, também sou formado em Licenciatura em Matemática, cheguei no curso por acaso e me apaixonei pela arte dos números.
 
-  Além de estudante de programação, também sou formado em Licenciatura em Matemática, cheguei no curso por acaso e me apaixonei pela arte dos números.
+Quanto aos meu passatempos, gosto bastante de jogos e de desenhar!
 
-  Quanto aos meu passatempos, gosto bastante de jogos e de desenhar!
-
-  ---
-  ## Tecnologias que uso:
-  Ainda estou aprendendo coisas novas todos os dias, porém já sei como usar:
-    - React com React Router, ContextAPI;
-    - React Funcional e Classes;
-    - Redux e React-Redux;
-    - Hooks;
-    - JavaScript puro;
+---
+## Tecnologias que uso:
+Ainda estou aprendendo coisas novas todos os dias, porém já sei como usar:
+- React com React Router, ContextAPI;
+- React Funcional e Classes;
+- Redux e React-Redux;
+- Hooks;
+- JavaScript puro;
 </details>
 
 ---
