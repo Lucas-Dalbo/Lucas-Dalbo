@@ -20,6 +20,7 @@
   - Redux and React-Redux.
 </details>
 
+---
 <details open>
   <summary>Leia em Portugês(BR)</summary>
   
