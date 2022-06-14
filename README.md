@@ -44,6 +44,16 @@ Ainda estou aprendendo coisas novas todos os dias, porém já sei como usar:
 </details>
 
 ---
+  ## Alguns Projetos:
+<div style="display: flex;">
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Dalbo&repo=wallet-project&theme=codeSTACKr&border_color=ffffff)](https://github.com/Lucas-Dalbo/wallet-project)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Dalbo&repo=music-app-trybetunes&theme=codeSTACKr&border_color=ffffff)](https://github.com/Lucas-Dalbo/music-app-trybetunes)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Dalbo&repo=trivia-project&theme=codeSTACKr&border_color=ffffff)](https://github.com/Lucas-Dalbo/trivia-project)
+  
+</div>
+
+---
 ## Contato:
 <div>
   <a href="https://www.linkedin.com/in/lucasdalbofernandes/"
