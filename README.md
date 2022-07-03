@@ -5,7 +5,7 @@
 
   ## About me
   My name is Lucas and Im a student of Web Development at [Trybe](https://www.betrybe.com/)
-  Currently Im on the Front-End module, but almost finishing it!
+  Already finished Fundamentals and Front End modules, and I'm currently studying Back-end!
 
   Besides programing, I also have a Math Degree.
 
@@ -28,7 +28,7 @@
 
 ## Quem sou eu:
 Me chamo Lucas e sou estudante de Programação e Desenvolvimento Web na [Trybe](https://www.betrybe.com/)!
-Atualmente estou no segundo módulo do curso, o de Front-End, que está na sua reta final.
+Já conclui os módulos de Fundamentos e de Front-End, atualmente estou estudando Back-End.
 
 Além de estudante de programação, também sou formado em Licenciatura em Matemática, cheguei no curso por acaso e me apaixonei pela arte dos números.
 
@@ -51,7 +51,8 @@ Ainda estou aprendendo coisas novas todos os dias, porém já sei como usar:
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Dalbo&repo=wallet-project&theme=codeSTACKr&border_color=ffffff)](https://github.com/Lucas-Dalbo/wallet-project)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Dalbo&repo=music-app-trybetunes&theme=codeSTACKr&border_color=ffffff)](https://github.com/Lucas-Dalbo/music-app-trybetunes)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Dalbo&repo=trivia-project&theme=codeSTACKr&border_color=ffffff)](https://github.com/Lucas-Dalbo/trivia-project)
-  
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Dalbo&repo=sw-planets-project&theme=codeSTACKr&border_color=ffffff)](https://github.com/Lucas-Dalbo/sw-planets-project)
+
 </div>
 
 ---
