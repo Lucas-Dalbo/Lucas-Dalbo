@@ -10,14 +10,7 @@
   Besides programing, I also have a Math Degree.
 
   My hobbies are playing games and drawing (poorly).
-  ___
-  ## What I know how to use
-  As a student, I'm still learning new things every day, but I already know how to use:
-  - Vanila JavaScript;
-  - Hooks;
-  - React: Function and Classes;
-  - React with React Router and ContextAPI;
-  - Redux and React-Redux.
+
 </details>
 
 ---
@@ -34,15 +27,18 @@ Além de estudante de programação, também sou formado em Licenciatura em Mate
 
 Quanto aos meu passatempos, gosto bastante de jogos e de desenhar!
 
+</details>
+
 ---
 ## Tecnologias que uso:
 Ainda estou aprendendo coisas novas todos os dias, porém já sei como usar:
-- React com React Router, ContextAPI;
-- React Funcional e Classes;
-- Redux e React-Redux;
-- Hooks;
-- JavaScript puro;
-</details>
+ - Front-End:
+ 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,jest)](https://skillicons.dev)
+
+- Back-End:
+
+[![My Skills](https://skillicons.dev/icons?i=docker,mysql,nodejs)](https://skillicons.dev)
 
 ---
   ## Alguns Projetos:
