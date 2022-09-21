@@ -46,7 +46,6 @@ Ainda estou aprendendo coisas novas todos os dias, porém já sei como usar:
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Dalbo&repo=trivia-project&theme=codeSTACKr&border_color=ffffff)](https://github.com/Lucas-Dalbo/trivia-project)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Dalbo&repo=sw-planets-project&theme=codeSTACKr&border_color=ffffff)](https://github.com/Lucas-Dalbo/sw-planets-project)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Dalbo&repo=app-receitas&theme=codeSTACKr&border_color=ffffff)](https://github.com/Lucas-Dalbo/app-receitas)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Dalbo&repo=sql-one-for-all&theme=codeSTACKr&border_color=ffffff)](https://github.com/Lucas-Dalbo/sql-one-for-all)
     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Dalbo&repo=blogs-api&theme=codeSTACKr&border_color=ffffff)](https://github.com/Lucas-Dalbo/blogs-api)
 
 </div>
