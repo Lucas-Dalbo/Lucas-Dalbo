@@ -32,13 +32,10 @@ Quanto aos meu passatempos, gosto bastante de jogos e de desenhar!
 ---
 ## Tecnologias que uso:
 Ainda estou aprendendo coisas novas todos os dias, porém já sei como usar:
- - Front-End:
- 
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,jest)](https://skillicons.dev)
-
-- Back-End:
-
-[![My Skills](https://skillicons.dev/icons?i=docker,mysql,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,docker,mysql,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,git,vscode)](https://skillicons.dev)
 
 ---
   ## Alguns Projetos:
