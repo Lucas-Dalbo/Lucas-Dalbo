@@ -44,8 +44,8 @@ Ainda estou aprendendo coisas novas todos os dias, porém já sei como usar:
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Dalbo&repo=wallet-project&theme=codeSTACKr&border_color=ffffff)](https://github.com/Lucas-Dalbo/wallet-project)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Dalbo&repo=music-app-trybetunes&theme=codeSTACKr&border_color=ffffff)](https://github.com/Lucas-Dalbo/music-app-trybetunes)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Dalbo&repo=trivia-project&theme=codeSTACKr&border_color=ffffff)](https://github.com/Lucas-Dalbo/trivia-project)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Dalbo&repo=sw-planets-project&theme=codeSTACKr&border_color=ffffff)](https://github.com/Lucas-Dalbo/sw-planets-project)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Dalbo&repo=app-receitas&theme=codeSTACKr&border_color=ffffff)](https://github.com/Lucas-Dalbo/app-receitas)
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Dalbo&repo=dungeons-and-dragons&theme=codeSTACKr&border_color=ffffff)](https://github.com/Lucas-Dalbo/dungeons-and-dragons)
     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Dalbo&repo=blogs-api&theme=codeSTACKr&border_color=ffffff)](https://github.com/Lucas-Dalbo/blogs-api)
 
 </div>
