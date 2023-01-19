@@ -35,7 +35,7 @@ Ainda estou aprendendo coisas novas todos os dias, porém já sei como usar:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,jest)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=ts,docker,mysql,mongo,nodejs,express)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=bash,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,bash,git,vscode)](https://skillicons.dev)
 
 ---
   ## Alguns Projetos:
