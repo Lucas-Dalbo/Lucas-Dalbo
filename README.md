@@ -1,27 +1,8 @@
-<details>
-  <summary>Read it in English!</summary>
-  
-  # Hello there! 👋
-
-  ## About me
-  My name is Lucas and Im a student of Web Development at [Trybe](https://www.betrybe.com/)
-  Already finished Fundamentals and Front End modules, and I'm currently studying Back-end!
-
-  Besides programing, I also have a Math Degree.
-
-  My hobbies are playing games and drawing (poorly).
-
-</details>
-
----
-<details open>
-  <summary>Leia em Portugês(BR)</summary>
-  
 # Olá, pessoa amável da internet! 👋
 
 ## Quem sou eu:
-Me chamo Lucas e sou estudante de Programação e Desenvolvimento Web na [Trybe](https://www.betrybe.com/)!
-Já conclui os módulos de Fundamentos e de Front-End, atualmente estou estudando Back-End.
+Me chamo Lucas e sou formado em Programação e Desenvolvimento Web na [Trybe](https://www.betrybe.com/)!
+Nesse curso estudei os Fundamentos e Lógica de Programação, Desenvolvimento Front-end e Back-end e também um pouco de Ciência da Computação.
 
 Além de estudante de programação, também sou formado em Licenciatura em Matemática, cheguei no curso por acaso e me apaixonei pela arte dos números.
 
